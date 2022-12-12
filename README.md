@@ -19,13 +19,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>   
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope:IT sphere, computers and programming are my passion.
 
-- :seedling: Exploring Technical Content Writing.
+- :I am open and ready to study new technologies in programming: languages, libraries, frameworks.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)                                                                                                                                     
+- :I'm looking for an interesting job in this field, you can remotely.  
+                                                                                                                                                           - : I’m working as a Software Engineer and contributing to frontend for building web applications.                                          
                                                                                                                                                  
 ## :fire: My Stats
 
