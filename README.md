@@ -40,9 +40,11 @@
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  ## 5. Profile View Counter
  ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
- ### Repository View Counter - HITS
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+
 
 :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
+
+                                                                                                                                                ### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
