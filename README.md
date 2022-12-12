@@ -21,9 +21,9 @@
 
 - IT sphere, computers and programming are my passion.
 
-- I am open and ready to study new technologies in programming: languages, libraries, frameworks.
+- Open and ready to study new technologies in programming: languages, libraries, frameworks.
 
-- :telescope: I am looking for an interesting job in this field.                                                                                                                                                                                        
+- :telescope: Looking for an interesting job in this field.                                                                                                                                                                                        
                                                                                                                                                  
 ## :fire: My Stats
 
