@@ -35,7 +35,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
 
-## RandomJoke Generator
+## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
  ## Profile View Counter
