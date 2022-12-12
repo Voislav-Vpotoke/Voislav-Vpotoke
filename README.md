@@ -27,14 +27,12 @@
   <img src="https://github.io/devicon/deviconb/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-                                                                                                                                               
-                                                                                                                                                # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+</div>                                                                                                                                         
+                                                                                                                                                # Top 5 
 ## Random Joke Generator
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
- ## :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
 
