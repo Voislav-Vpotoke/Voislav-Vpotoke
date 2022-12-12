@@ -31,12 +31,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>                                                                                                                                         
                                                                                                                                                   
-## Random Joke Generator
- ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
+
+                                                                                                                                               ## Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
  ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)                                                                                                                                                                                                                                   
