@@ -38,10 +38,9 @@
  ![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
  ## 4. Random Joke Generator
  ![Jokes Card](https://readme-jokes.vercel.app/api)
- ## 5.
 
 
-:fire: My Stats :
+ ## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
 
