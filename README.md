@@ -44,6 +44,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
 
-Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)                                                                                                                                             
-                                                                                                                                                ### 
+ ## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)                                                                                                                                                                                                                                   
