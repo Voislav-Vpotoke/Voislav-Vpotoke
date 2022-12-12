@@ -31,4 +31,4 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-voislav-vpotoke                                                                                                                                        
+https://github-readme-streak-stats.herokuapp.com/?user=voislav-vpotoke                                                                                                                                        
