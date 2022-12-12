@@ -30,4 +30,4 @@
 </div>
 :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
                                                                                                                                                
-                                                                                                                                               ![trophy](https://github-profile-trophy.vercel.app/?voislav-vpotoke=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+                                                                                                                                               ![trophy]https://github-profile-trophy.vercel.app/?voislav-vpotoke=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy
