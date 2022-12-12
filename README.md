@@ -30,4 +30,4 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-voislav-vpotoke&theme=dark&background=000000)](https://git.io/streak-stats)                                                                                                                                      
+(https://github-readme-streak-stats.herokuapp.com/?user=your-github-voislav-vpotoke)                                                                                                                                    
