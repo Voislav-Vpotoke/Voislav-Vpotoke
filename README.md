@@ -23,8 +23,7 @@
 
 - I am open and ready to study new technologies in programming: languages, libraries, frameworks.
 
-- I'm looking for an interesting job in this field, you can remotely.  
-                                                                                                                                                           - I’m working as a Software Engineer and contributing to frontend for building web applications.                                          
+- I am looking for an interesting job in this field.                                                                                                                                                                                        
                                                                                                                                                  
 ## :fire: My Stats
 
