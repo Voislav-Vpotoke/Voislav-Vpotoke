@@ -23,6 +23,7 @@
 - Open and ready to study new technologies.
 
 - :telescope: Looking for an interesting job in this field.                                                                                                                                                                                       
+
                                                                                                                                             
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
