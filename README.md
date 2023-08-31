@@ -22,12 +22,8 @@
 
 - Open and ready to study new technologies.
 
-- :telescope: Looking for an interesting job in this field.                                                                                                                                                                                        
-                                                                                                                                                 
-## :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voislav-vpotoke&theme=dark)](https://git.io/streak-stats)
-
+- :telescope: Looking for an interesting job in this field.                                                                                                                                                                                       
+                                                                                                                                            
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
